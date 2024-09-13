@@ -4,8 +4,8 @@
 | -------------- | --------------------------------------- | -------------- | -------------- | -------------- | -------------- |
 | Антон Сергеев, «Go под капотом»    | [Ссылка](https://youtu.be/rloqQY9CT8I)  | 00:36:36 |        | [Kolesa Group](https://www.youtube.com/@kolesagroup6324)|ru|
 | GopherCon 2016: Keith Randall - Inside the Map Implementation    | [Ссылка](https://youtu.be/Tl7mi9QmLns)  | 00:26:49 ||[Gopher Academy](https://www.youtube.com/@kolesagroup6324)|en|
-| Заголовка 3    | [Ссылка](https://youtu.be/5bYO60-qYOI)  | Длительность 4 |                |                ||
-| Заголовка 4    | [Ссылка](https://youtu.be/RIvL2ONhFBI)  | Длительность 4 |                |                ||
+| Program your next server in Go | [Ссылка](https://youtu.be/5bYO60-qYOI)  | Длительность 4 |                |[Association for Computing Machinery (ACM)]([https://www.youtube.com/@kolesagroup6324](https://www.youtube.com/@TheOfficialACM))|en|
+| Заголовка 4    | [Ссылка](https://youtu.be/RIvL2ONhFBI)  | 01:02:05 |                |                ||
 | Заголовка 5    | [Ссылка](https://youtu.be/zzAdEt3xZ1M)  | Длительность 5 |                |                ||
 | Заголовка 6    | [Ссылка](https://youtu.be/XGtieBVI1lk)  | Длительность 6 |                |                ||
 | Заголовка 7    | [Ссылка](https://youtu.be/2557w0qsDV0)  | Длительность 7 |                |                ||
