@@ -8,10 +8,10 @@
 | Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications| [Ссылка](https://youtu.be/RIvL2ONhFBI)  | 01:06:59 |[Macquarie Group](https://www.youtube.com/@macquarie)|en|
 | Golang UK Conference 2016 - Dave Cheney - SOLID Go Design| [Ссылка](https://youtu.be/zzAdEt3xZ1M)  | 00:26:27|[GopherCon UK](https://www.youtube.com/@GopherConUK)|en|
 | Андрей Акиньшин — Поговорим про память| [Ссылка](https://youtu.be/2557w0qsDV0)  | 01:02:37 |[DotNext — конференция для .NET‑разработчиков](https://www.youtube.com/@DotNextConf)|ru|
-| Заголовка 7    | [Ссылка](https://youtu.be/2557w0qsDV0)  | Длительность 7 |                ||
-| Заголовка 8    | [Ссылка](https://youtu.be/ydWFpcoYraU)  | Длительность 8 |                ||
-| Заголовка 9    | [Ссылка](https://youtu.be/c4bldaCjYRY)  | Длительность 9 |                ||
-| Заголовка 10   | [Ссылка](https://youtu.be/AV-KzQI-tLM)  | Длительность 10|                ||
+| Escape Analysis and Memory Profiling - GopherCon SG 2017| [Ссылка](https://youtu.be/2557w0qsDV0)  | 00:24:32 |[Singapore Gophers](https://www.youtube.com/@golangSG)|en|
+| Finding Memory Leaks in Go Programs - Oleg Shaldybin| [Ссылка](https://youtu.be/ydWFpcoYraU)  | 00:28:36 |[Data Council](https://www.youtube.com/@DataCouncil)|en|
+| Профилирование Go приложений - Антон Кучеров, soax.com| [Ссылка](https://youtu.be/c4bldaCjYRY)  | 00:38:24 |[iSpring Tech](https://www.youtube.com/@iSpringTech)|ru|
+| СТРУКТУРЫ — ТВОЯ ГЛАВНАЯ ОШИБКА | [Ссылка](https://youtu.be/AV-KzQI-tLM)  |00:08:39|[ExtremeCode](https://www.youtube.com/@ExtremeCode)|ru|
 | Заголовка 11   | [Ссылка](https://youtu.be/BHNt1fcg8iw)  | Длительность 11|                ||
 | Заголовка 12   | [Ссылка](https://youtu.be/2h_NFBFrciI)  | Длительность 12|                ||
 | Заголовка 13   | [Ссылка](https://youtu.be/lsBF58Q-DnY)  | Длительность 13|                ||
