@@ -14,7 +14,7 @@
 | СТРУКТУРЫ — ТВОЯ ГЛАВНАЯ ОШИБКА | [Ссылка](https://youtu.be/AV-KzQI-tLM)  |00:08:39|[ExtremeCode](https://www.youtube.com/@ExtremeCode)|ru|
 | THE MOST FREQUENT MISCONCEPTIONS ABOUT OOP | [Ссылка](https://youtu.be/BHNt1fcg8iw)  |00:19:36|[ExtremeCode](https://www.youtube.com/@ExtremeCode)|ru|
 | GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully | [Ссылка](https://youtu.be/2h_NFBFrciI)  | 00:22:12|[Gopher Academy](https://www.youtube.com/@GopherAcademy)|en|
-| Gopherfest 2015 | Go Proverbs with Rob Pike| [Ссылка](https://youtu.be/lsBF58Q-DnY)  | 00:22:27|[The Go Programming Language](https://www.youtube.com/@golang)|en|
+| Gopherfest 2015 Go Proverbs with Rob Pike| [Ссылка](https://youtu.be/lsBF58Q-DnY)  | 00:22:27|[The Go Programming Language](https://www.youtube.com/@golang)|en|
 | How to optimize Go for really high performance - by Björn Rabenstein | [Ссылка](https://youtu.be/PAAkCSZUG1c)  | 00:22:27|[The Go Programming Language](https://www.youtube.com/@golang)|en|
 | Заголовка 15   | [Ссылка](https://youtu.be/ZuQcbqYK0BY)  | 01:09:01|[NewStore Tech Talks](https://www.youtube.com/@newtechberlin5319)|en|
 | Заголовка 16   | [Ссылка](https://youtu.be/8D3Vmm1BGoY)  | Длительность 16|                ||
