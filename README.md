@@ -15,12 +15,12 @@
 | THE MOST FREQUENT MISCONCEPTIONS ABOUT OOP | [Ссылка](https://youtu.be/BHNt1fcg8iw)  |00:19:36|[ExtremeCode](https://www.youtube.com/@ExtremeCode)|ru|
 | GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully | [Ссылка](https://youtu.be/2h_NFBFrciI)  | 00:22:12|[Gopher Academy](https://www.youtube.com/@GopherAcademy)|en|
 | Gopherfest 2015 Go Proverbs with Rob Pike| [Ссылка](https://youtu.be/lsBF58Q-DnY)  | 00:22:27|[The Go Programming Language](https://www.youtube.com/@golang)|en|
-| How to optimize Go for really high performance - by Björn Rabenstein | [Ссылка](https://youtu.be/PAAkCSZUG1c)  | 00:22:27|[The Go Programming Language](https://www.youtube.com/@golang)|en|
-| Заголовка 15   | [Ссылка](https://youtu.be/ZuQcbqYK0BY)  | 01:09:01|[NewStore Tech Talks](https://www.youtube.com/@newtechberlin5319)|en|
-| Заголовка 16   | [Ссылка](https://youtu.be/8D3Vmm1BGoY)  | Длительность 16|                ||
-| Заголовка 17   | [Ссылка](https://youtu.be/Wh22_O8jXVQ)  | Длительность 17|                ||
-| Заголовка 18   | [Ссылка](https://youtu.be/k9wK2FThEsk)  | Длительность 18|                ||
-| Заголовка 19   | [Ссылка](https://youtu.be/MXoMuymbfo8)  | Длительность 19|                ||
+| How to optimize Go for really high performance - by Björn Rabenstein | [Ссылка](https://youtu.be/PAAkCSZUG1c)  | 01:09:01|[NewStore Tech Talks](https://www.youtube.com/@newtechberlin5319)|en|
+| Twelve Go Best Practices - Francesc Campoy  | [Ссылка](https://youtu.be/ZuQcbqYK0BY)  | 00:49:26|[Esri R&D Center](https://www.youtube.com/@EsriRDCenterPortland)|en|
+| КАК РАБОТАЕТ ПАМЯТЬ КОМПЬЮТЕРА / ОСНОВЫ ПРОГРАММИРОВАНИЯ | [Ссылка](https://youtu.be/8D3Vmm1BGoY)  |00:19:25|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЕТ ПРОЦЕССОР / ОСНОВЫ ПРОГРАММИРОВАНИЯ | [Ссылка](https://youtu.be/Wh22_O8jXVQ)  | 00:33:47|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЕТ СТЕК / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/k9wK2FThEsk)  | 00:15:46|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЮТ КОДИРОВКИ / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/MXoMuymbfo8)  | 00:20:33|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
 | Заголовка 20   | [Ссылка](https://youtu.be/4MFcmreAUhs)  | Длительность 20|                ||
 | Заголовка 21   | [Ссылка](https://youtu.be/kG_ipMygRUc)  | Длительность 21|                ||
 | Заголовка 22   | [Ссылка](https://youtu.be/U0U8Ddx4TgE)  | Длительность 22|                ||
