@@ -1,5 +1,6 @@
-# Tutorial
-Video-> Nadirbek
+# Мой путь в глубины бэкенда: от Golang до системных основ
+### Это мой личный плейлист-туториал - всё, что помогает прокачивать мозг backend-разработчика. Тут собрано лучшее: лекции Rob Pike и Dave Cheney, хардкор про память от Акиньшина, фундаментальные разборы от Alek OS и мощные видео Николая Тузова, где он простым языком вскрывает внутренности Go - от map-структур до работы рантайма.
+### Я изучаю Golang, CS и устройство компьютеров, чтобы понимать не только что писать, но и почему это работает именно так.
 
 | Заголовка      | Ссылка на видео                         | Длительность   | Канал | Язык |
 | -------------- | --------------------------------------- | -------------- | -------------- | -------------- |
@@ -22,17 +23,17 @@ Video-> Nadirbek
 | КАК РАБОТАЕТ ПРОЦЕССОР / ОСНОВЫ ПРОГРАММИРОВАНИЯ | [Ссылка](https://youtu.be/Wh22_O8jXVQ)  | 00:33:47|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
 | КАК РАБОТАЕТ СТЕК / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/k9wK2FThEsk)  | 00:15:46|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
 | КАК РАБОТАЮТ КОДИРОВКИ / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/MXoMuymbfo8)  | 00:20:33|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
-| КАК РАБОТАЮТ КОДИРОВКИ | [Ссылка](https://youtu.be/4MFcmreAUhs)  | 20:33|ru|
-| Заголовка 21   | [Ссылка](https://youtu.be/kG_ipMygRUc)  | Длительность 21|                ||
-| Заголовка 22   | [Ссылка](https://youtu.be/U0U8Ddx4TgE)  | Длительность 22|                ||
-| Заголовка 23   | [Ссылка](https://youtu.be/7n_8cOBpQrg)  | Длительность 23|                ||
-| Заголовка 24   | [Ссылка](https://youtu.be/BIYiuy8WWiU)  | Длительность 24|                ||
-| Заголовка 25   | [Ссылка](https://youtu.be/qIhZrMg3_Tk)  | Длительность 25|                ||
-| Заголовка 26   | [Ссылка](https://youtu.be/EW9oGc5vSAI)  | Длительность 26|                ||
-| Заголовка 27   | [Ссылка](https://youtu.be/BQto7PiHknc)  | Длительность 27|                ||
-| Заголовка 28   | [Ссылка](https://youtu.be/Lrjjqc1bRHo)  | Длительность 28|                ||
-| Заголовка 29   | [Ссылка](https://youtu.be/Ie3pK1Adm4U)  | Длительность 29|                ||
-| Заголовка 30   | [Ссылка](https://youtu.be/uYhQ2ot3XFg)  | Длительность 30|                ||
-| Заголовка 31   | [Ссылка](https://youtu.be/f6kdp27TYZs)  | Длительность 31|                ||
-| Заголовка 32   | [Ссылка](https://youtu.be/P_SXTUiA-9Y)  | Длительность 32|                ||
-| Заголовка 33   | [Ссылка](https://youtu.be/oV9rvDllKEg)  | Длительность 33|                ||
+| КАК РАБОТАЮТ КОДИРОВКИ | [Ссылка](https://youtu.be/4MFcmreAUhs)  | 20:33|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| СИСТЕМЫ СЧИСЛЕНИЯ С НУЛЯ| [Ссылка](https://youtu.be/kG_ipMygRUc)  | 11:01|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЮТ ЧИСЛА С ПЛАВАЮЩЕЙ ТОЧКОЙ| [Ссылка](https://youtu.be/U0U8Ddx4TgE)  |16:18|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЕТ КЭШ ПРОЦЕССОРА | [Ссылка](https://youtu.be/7n_8cOBpQrg)  | 33:19|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+| КАК РАБОТАЮТ ОТРИЦАТЕЛЬНЫЕ ЧИСЛА| [Ссылка](https://youtu.be/BIYiuy8WWiU)  | 12:47|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
+|  КАК работает ПРОЦЕССОР? ОБЪЯСНЯЕМ | [Ссылка](https://youtu.be/qIhZrMg3_Tk)  | 09:08|[Droider](https://www.youtube.com/@Droiderru)|ru|
+| Drim Lesson: Container Images| [Ссылка](https://youtu.be/EW9oGc5vSAI)  |59:11|[Drim](https://www.youtube.com/@DrimDev)|ru|
+| Drim Lesson: Containers Fundamentals | [Ссылка](https://youtu.be/BQto7PiHknc)  | 01:51:30|[Drim](https://www.youtube.com/@DrimDev)|ru|
+|  Как устроены память и кеши | [Ссылка](https://youtu.be/Lrjjqc1bRHo)  | 49:10|[Yandex for Backend](https://www.youtube.com/@YandexforBackend)|ru|
+|  Когда тормозит память: парсим гигабайты в секунду / Андрей Аксёнов, Авито | [Ссылка](https://youtu.be/Ie3pK1Adm4U)  |58:31|[Yandex for Backend](https://www.youtube.com/@YandexforBackend)|ru|
+|  HighLoad. Введение | [Ссылка](https://youtu.be/uYhQ2ot3XFg)  | 01:43:39|[VK Team](https://www.youtube.com/@vkteamchannel)|ru|
+|  Google I/O 2012 - Go Concurrency Patterns | [Ссылка](https://youtu.be/f6kdp27TYZs)  | 51:29|[Google for Developers](https://www.youtube.com/@GoogleDevelopers)|en|
+|  Как на самом деле устроен тип Map в Golang? / Golang под капотом | [Ссылка](https://youtu.be/P_SXTUiA-9Y)  | 34:32|[Николай Тузов - Golang](https://www.youtube.com/@nikolay_tuzov)|ru|
+|  Concurrency is not Parallelism by Rob Pike | [Ссылка](https://youtu.be/oV9rvDllKEg)  | 31:22|[gnbitcom](https://www.youtube.com/@gnbitcom)|en|
