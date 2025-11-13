@@ -22,7 +22,7 @@ Video-> Nadirbek
 | КАК РАБОТАЕТ ПРОЦЕССОР / ОСНОВЫ ПРОГРАММИРОВАНИЯ | [Ссылка](https://youtu.be/Wh22_O8jXVQ)  | 00:33:47|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
 | КАК РАБОТАЕТ СТЕК / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/k9wK2FThEsk)  | 00:15:46|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
 | КАК РАБОТАЮТ КОДИРОВКИ / ОСНОВЫ ПРОГРАММИРОВАНИЯ| [Ссылка](https://youtu.be/MXoMuymbfo8)  | 00:20:33|[Alek OS](https://www.youtube.com/@AlekOS)|ru|
-| Заголовка 20   | [Ссылка](https://youtu.be/4MFcmreAUhs)  | Длительность 20|                ||
+| КАК РАБОТАЮТ КОДИРОВКИ | [Ссылка](https://youtu.be/4MFcmreAUhs)  | 20:33|ru|
 | Заголовка 21   | [Ссылка](https://youtu.be/kG_ipMygRUc)  | Длительность 21|                ||
 | Заголовка 22   | [Ссылка](https://youtu.be/U0U8Ddx4TgE)  | Длительность 22|                ||
 | Заголовка 23   | [Ссылка](https://youtu.be/7n_8cOBpQrg)  | Длительность 23|                ||
